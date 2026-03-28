@@ -44,7 +44,10 @@ The model analyzes user profile data and tweet-related features to classify whet
 - Precision: XX%
 - Recall: XX%
 - ROC-AUC Score: XX
-
+- Accuracy: 70.35714285714286
+- Precision: 62.558139534883715
+- Recall: 98.17518248175182
+- F1 Score: 0.764204545454545
 ---
 
 ## 📂 Dataset
